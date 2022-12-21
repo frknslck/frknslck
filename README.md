@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm Furkan</h1>
+<h1 align="center">Heyyooo! My name is Furkan</h1>
+
 - 🔭 I’m currently working on **Front-end Development**
 
 - 🌱 I’m currently learning **JavaScript, React.js**
