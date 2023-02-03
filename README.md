@@ -19,3 +19,4 @@
   
 </p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frknslck&" alt="frknslck" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frknslck&layout=compact" alt="frknslck" /></p>
