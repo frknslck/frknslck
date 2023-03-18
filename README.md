@@ -13,7 +13,7 @@
 <br>
 <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/JSo4fdXkFW8AAAAC/haruhi.gif" />
 
-- ☕ I'm a **Front End Developer**
+- ☕ I'm a **Front-End Developer**
 
 - 🔭 I’m currently working on **Portfolio Website**
 
