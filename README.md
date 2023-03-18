@@ -6,7 +6,9 @@
   <h1 align="center"><b>Heyyoooo! My name is furkan</b></h1>
 </p>
 
-<img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
+<p align="center">
+  <img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
+</p>
 
 <p align="center">
 <br>
@@ -22,10 +24,15 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:furkanselcuk.fs58@gmail.com)
 
 <br>
+<br>
+<br>
 
 <p align="center">
     <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frknslck&" alt="frknslck" /></p>
 </p>
+
+<br>
+<br>
 
 <h2 align="center">Technical Skills</h2>
 <div align="center">
