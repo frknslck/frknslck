@@ -9,6 +9,7 @@
 <p align="center">
   <img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
 </p>
+
 #### 📬 Connect with me:
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/furkansb/)
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:furkanselcuk.fs58@gmail.com)
