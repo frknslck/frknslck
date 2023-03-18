@@ -3,7 +3,7 @@
   <h1 align="center"><b>Heyyoooo! My name is furkan</b></h1>
 </p>
 
- <img align="left" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
+<img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
 <p align="center">
 <br>
 
