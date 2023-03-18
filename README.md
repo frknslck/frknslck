@@ -1,4 +1,4 @@
-  <img alt="GIF" src="https://media.tenor.com/oWn3FXd8w1cAAAAC/megumin.gif" />
+  <img align="center" alt="GIF" src="https://media.tenor.com/oWn3FXd8w1cAAAAC/megumin.gif" />
 <p>
   <h1 align="center"><b>Heyyoooo! My name is furkan</b></h1>
 </p>
