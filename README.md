@@ -15,7 +15,7 @@
 
 - ☕ I'm a **Front End Developer**
 
-- 🔭 I’m currently working on **Backend Development**
+- 🔭 I’m currently working on **Portfolio Website**
 
 - 🌱 I’m currently learning **Python**
 #### 📬 Connect with me:
