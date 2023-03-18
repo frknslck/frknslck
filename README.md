@@ -1,15 +1,13 @@
 <img align="center" width="700px" alt="GIF" src="https://media.tenor.com/oWn3FXd8w1cAAAAC/megumin.gif" />
+
 <p>
   <h1 align="center"><b>Heyyoooo! My name is furkan</b></h1>
 </p>
 
-<p align="center">
-    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frknslck&" alt="frknslck" /></p>
-</p>
+<img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
 
 <p align="center">
 <br>
-
 <img align="right" height="270px" alt="GIF" src="https://media.tenor.com/JSo4fdXkFW8AAAAC/haruhi.gif" />
 
 - ☕ I'm a **Front End Developer**
@@ -22,6 +20,10 @@
 [![website](https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:furkanselcuk.fs58@gmail.com)
 
 <br>
+
+<p align="center">
+    <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=frknslck&" alt="frknslck" /></p>
+</p>
 
 <h2 align="center">Technical Skills</h2>
 <div align="center">
