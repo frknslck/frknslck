@@ -3,7 +3,7 @@
 </p>
 
 <p>
-  <h1 align="center"><b>Heyyoooo! My name is Furkan.</b></h1>
+  <h1 align="center"><b>Hi! My name is Furkan.</b></h1>
 </p>
 
 <p align="center">
