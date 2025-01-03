@@ -35,3 +35,8 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/furkansb/)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=Gmail&logoColor=white)](mailto:furkanselcuk.fs58@gmail.com)
+
+## Visit Count
+
+<img align="center" src = "https://profile-counter.glitch.me/frknslck/count.svg" alt ="Loading">
+  
